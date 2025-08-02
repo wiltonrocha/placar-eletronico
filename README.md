@@ -19,3 +19,6 @@ Aplicativo desktop para controle de placares esportivos com:
    ```bash
    git clone https://github.com/seu-usuario/placar-eletronico.git
    cd placar-eletronico
+## 🛠️ Build para Windows
+```bash
+npm run build
